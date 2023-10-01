@@ -1,4 +1,4 @@
--👋 Hi! I'm [@Özhanbirgül], a frontend developer.
+👋 Hi! I'm [@Özhanbirgül], a frontend developer.
 
 - 👀 I'm a strong and innovative person, but I'm always looking for ways to improve and learn.
 
