@@ -1,10 +1,24 @@
-👋 Hi! I'm [@Özhanbirgül], a frontend developer.
+- 👋   Hi! I'm Birgül ÖZHAN, a frontend developer.
 
-- 👀 I'm a strong and innovative person, but I'm always looking for ways to improve and learn.
+- 👀  I love to conduct research and am committed to constant self-improvement.
 
-- 🌱 In my projects on GitHub, I always strive to reflect these qualities.
+- 🌱  I'm open to innovation and eagerly embrace emerging technologies.I aim to create unique designs and enhance the user experience.
 
-- 💞️ I hope we can create great things together.
+- 💞️  My confidence in myself is unwavering, and I find myself in every project.Each project is a learning experience, fueling my journey of self-improvement.
+
+- ✨ I enjoy collaborating and am always ready to contribute to new projects. Crafting creative solutions and overcoming challenges excite me.
+
+  ## Technologies I Use
+
+Here are the core technologies I frequently work with in my projects:
+
+- HTML
+- CSS
+- SCSS
+- Bootstrap
+- JavaScript
+
+I continue to work with these technologies and enjoy using them to enhance and develop my projects.
 
 
 <!---
